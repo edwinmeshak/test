@@ -1,4 +1,4 @@
-Rainbow 
+Rainbow - Unicorn
 
 violet
 indigo
@@ -7,3 +7,5 @@ green
 yellow
 orange
 red
+
+Unicorn
