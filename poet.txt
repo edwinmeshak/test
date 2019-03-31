@@ -1,0 +1,8 @@
+Rainbow 
+
+violet
+indigo
+blue
+green
+yellow
+red
